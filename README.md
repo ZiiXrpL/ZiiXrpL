@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm ZiiXrpL!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Selamat+Datang+di+Profil+Saya!;Saya+Front-end+Developer;Selalu+Belajar+dan+Ngoding&center=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Selamat+Datang+di+Profil+Saya!;Saya+UI/UX-Designer;Selalu+Belajar+dan+Ngoding&center=true&size=22">
 </p>
 
 ---
@@ -22,13 +22,6 @@
 
 ---
 
-## ✨ Fun GIF & Animation
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
----
 
 ## 📫 Hubungi Saya
 
