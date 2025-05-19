@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm ZiiXrpL!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Selamat+Datang+di+Profil Github+Saya!;Saya+UI/UX-Designer;Selalu+Belajar+dan+Ngoding&center=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Selamat+Datang+di+Profil+Github+Saya!;Saya+UI/UX-Designer;Selalu+Belajar+dan+Ngoding&center=true&size=22">
 </p>
 
 ---
