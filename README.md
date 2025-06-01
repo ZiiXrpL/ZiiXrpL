@@ -9,7 +9,7 @@
 ## 🔥 Statistik GitHub Saya
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZiXrpL&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZiiXrpL&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
